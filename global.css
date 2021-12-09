@@ -1,0 +1,10 @@
+@font-face {
+  font-family: PT Sans;
+  src: url(./fonts/PTSans-Regular.ttf);
+}
+
+body {
+  font-family: PT Sans, Arial, Helvetica, sans-serif;
+  font-size: 18px;
+}
+/*# sourceMappingURL=global.css.map */
